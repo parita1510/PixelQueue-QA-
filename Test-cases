@@ -15,3 +15,6 @@ Test Cases for login page:
 14.Verify whether the login form is revealing any security information by viewing the page source
 15.Verify that the User is redirected to the Forgot password page when clicking on the Forgot Password link
 16.Verify that User is redirected to appropriate page after successful login
+17.Verify that validation message is displayed in the case when User leaves Username or Password as blank
+18.Verify that validation message is displayed in case of exceeding the character limit of the Username and Password fields
+19.Verify that validation message is displayed in case of entering special character in the Username and password fields
